@@ -2,7 +2,7 @@
 
 Hi class! Welcome to my personal page.
 
-
+![Pranav](pranav.jpg)
 
 ## About Me
 
